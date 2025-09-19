@@ -25,7 +25,7 @@ Descrevendo as opções do comando:
 - `--name fedora-tutorial` → Nome do contêiner  
 - `fedora:latest` → Imagem utilizada  
 
-   ![Print do exercício](https://github.com/pndias/2025.2-Atividades-02-Docker-Introducao/blob/main/images/navegacao-basica.png)
+   ![Print do exercício](images/navegacao-basica.png)
 
 2.  **[Atividade 2 - Manipulação de arquivos]**: Criar, copiar, mover e excluir arquivos, trabalhando com diretórios home e subpastas.  
 
@@ -78,7 +78,7 @@ Descrevendo as opções do comando:
    ls atividades/backup/
    ```
 
-   ![Print do exercicio 2](https://github.com/pndias/2025.2-Atividades-02-Docker-Introducao/blob/main/images/manipulacao-arquivos.png)
+   ![Print do exercicio 2](images/manipulacao-arquivos.png)
 
 3.  **[Atividade 3 - Gerenciamento de Pacotes]**: CInstalar e remover pacotes usando `dnf`.  
 
@@ -98,7 +98,7 @@ Descrevendo as opções do comando:
    ```bash
    dnf remove nano -y
    ```
-   ![Exercício 3](https://github.com/pndias/2025.2-Atividades-02-Docker-Introducao/blob/main/images/gerenciamento-pacotes.png)
+   ![Exercício 3](images/gerenciamento-pacotes.png)
 
 ---
 
@@ -117,7 +117,7 @@ Descrevendo as opções do comando:
    ls -l script.sh
    ```
 
-    ![Exercício 4](https://github.com/pndias/2025.2-Atividades-02-Docker-Introducao/blob/main/images/permissao-arquivo.png)
+    ![Exercício 4](images/permissao-arquivo.png)
 
  **[Atividade 5 - Monitorar e encerrar processos]**: monitorar e encerrar processos através do terminal 
 
@@ -138,4 +138,4 @@ Descrevendo as opções do comando:
    kill <PID>
    ```
 
-   ![Exercício 4](https://github.com/pndias/2025.2-Atividades-02-Docker-Introducao/blob/main/images/monitorar-encerrar-processos.png)
+   ![Exercício 5](images/monitorar-encerrar-processos.png)
